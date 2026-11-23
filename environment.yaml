@@ -1,0 +1,10 @@
+name: bigdata-anns-env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - faiss-cpu=1.15.0
+  - h5py
+  - matplotlib
