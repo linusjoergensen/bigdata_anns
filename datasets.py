@@ -25,3 +25,5 @@ def get_dataset(dataset: str):
     :type dataset: str
     """
     raise NotImplementedError
+
+print("I did everything very cool")
