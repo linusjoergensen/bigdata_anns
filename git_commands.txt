@@ -1,0 +1,11 @@
+To update and get the newest changes (always before adding/changing something):
+git pull
+
+After you changed something in the project:
+git add [name of file]
+git add [name of file]
+...
+
+git commit -m "[message for commit]"
+
+git push
